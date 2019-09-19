@@ -1,0 +1,13 @@
+{
+  "name": "react-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nathan Queija <nathanqcam@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
