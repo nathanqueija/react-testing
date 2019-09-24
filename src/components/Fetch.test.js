@@ -4,7 +4,7 @@ import '@testing-library/jest-dom/extend-expect'
 import axios from 'axios'
 import Fetch from 'components/Fetch'
 
-jest.mock('axios');
+// jest.mock('axios');
 
 
 test('loads and displays greeting', async () => {
